@@ -1,0 +1,10 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+._*
+
+# Ignore editor-specific files and folders
+.vscode/
+*.swp
+*.bak
+*.tmp
